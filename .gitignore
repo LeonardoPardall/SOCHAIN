@@ -1,0 +1,2 @@
+"bin\nobj\n*.log\n.vscode\n__pycache__\n*.class" 
+"*.o" 

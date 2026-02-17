@@ -1,0 +1,4 @@
+log.log
+stat.txt
+10
+
