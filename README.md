@@ -7,7 +7,7 @@ SOCHAIN — Simplified Transaction Chain (Academic Project)
 
 Description
 -----------
-SOCHAIN is a C project that implements a simplified simulation of a transaction ledger for academic purposes. The project manages wallets, servers and transactions, records precise timing for transaction events, and demonstrates concurrent communication and process handling.
+SOCHAIN is a C project that implements a simplified simulation of a transaction ledger. The project manages wallets, servers and transactions, records precise timing for transaction events, and demonstrates concurrent communication and process handling.
 
 Key features
 ------------
