@@ -1,7 +1,3 @@
-// Grupo 53
-// Leonardo Pardal 61836
-// Martim Cardoso 61876
-// Nuno Nobre 61823
 
 #ifndef CTIME_H_GUARD
 #define CTIME_H_GUARD
