@@ -1,7 +1,3 @@
-/* ATENÇÃO: NÃO MODIFICAR ESTE FICHEIRO
- * Os ficheiros .h serão substituídos pelos fornecidos pelos professores durante a avaliação
- * Caso estes ficheiros sejam modificados, o trabalho deixará de compilar durante a avaliação
-*/
 #ifndef MEMORY_H_GUARD
 #define MEMORY_H_GUARD
 
