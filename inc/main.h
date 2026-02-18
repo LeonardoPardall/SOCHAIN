@@ -1,7 +1,4 @@
-/* ATENÇÃO: NÃO MODIFICAR ESTE FICHEIRO
- * Os ficheiros .h serão substituídos pelos fornecidos pelos professores durante a avaliação
- * Caso estes ficheiros sejam modificados, o trabalho deixará de compilar durante a avaliação
-*/
+
 #ifndef MAIN_H_GUARD
 #define MAIN_H_GUARD
 
