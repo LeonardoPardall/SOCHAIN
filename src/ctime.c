@@ -1,7 +1,3 @@
-// Grupo 53
-// Leonardo Pardal 61836
-// Martim Cardoso 61876
-// Nuno Nobre 61823
 
 #include <time.h>
 #include "memory.h"
